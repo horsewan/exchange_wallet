@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/act/act.iml" filepath="$PROJECT_DIR$/act/act.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitcoin/bitcoin.iml" filepath="$PROJECT_DIR$/bitcoin/bitcoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ect/ect.iml" filepath="$PROJECT_DIR$/ect/ect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erc-token/erc-token.iml" filepath="$PROJECT_DIR$/erc-token/erc-token.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eth/eth.iml" filepath="$PROJECT_DIR$/eth/eth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eth-support/eth-support.iml" filepath="$PROJECT_DIR$/eth-support/eth-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-common/rpc-common.iml" filepath="$PROJECT_DIR$/rpc-common/rpc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usdt/usdt.iml" filepath="$PROJECT_DIR$/usdt/usdt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wallet-rpc.iml" filepath="$PROJECT_DIR$/wallet-rpc.iml" />
+    </modules>
+  </component>
+</project>

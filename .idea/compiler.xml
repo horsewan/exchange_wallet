@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ect" />
+        <module name="act" />
+        <module name="rpc-common" />
+        <module name="eth-support" />
+        <module name="bitcoin" />
+        <module name="usdt" />
+        <module name="eth" />
+        <module name="erc-token" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="act" target="1.8" />
+      <module name="bitcoin" target="1.6" />
+      <module name="ect" target="1.8" />
+      <module name="erc-token" target="1.8" />
+      <module name="eth" target="1.8" />
+      <module name="eth-support" target="1.8" />
+      <module name="rpc-common" target="1.8" />
+      <module name="usdt" target="1.8" />
+      <module name="wallet-rpc" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
